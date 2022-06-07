@@ -15,6 +15,7 @@ namespace WindowsFormsAppPruebaGit
         public Form1()
         {
             InitializeComponent();
+          //  "Hola esto es una prueba"
         }
     }
 }
